@@ -77,7 +77,7 @@
             //acá voy por el JSON
 
             async function astros() {
-                const consulta = await fetch("https://raw.githubusercontent.com/ljubedsacalderon/dno096-09/refs/heads/main/datos.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/ljubedsacalderon/dno096-12/refs/heads/main/datos.json");
                 const data = await consulta.json();
                 console.log(data);
                     data.forEach((d, i) => (principal.innerHTML += `
