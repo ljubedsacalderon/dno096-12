@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Mcfly - Diseño de una banca",
+        "descripcion": "Banca para dos personas, hecha de planchas de terciado de 3mm, diseñada para ser armada a partir de encajes.",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-08.jpg?raw=true",
+        "fotos":["portafoliov3-11.jpg", "portafoliov2-08.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Concholepas concholepas",
+        "descripcion": "Estructura articulada de escala monumental bio-inspirada por Locos en su etapa larval. Este proyecto busca representar la esencia de la geometría estructural del loco (Concholepas concholepas), mediante la composición de círculos confeccionados a partir de cuerda de yute, cuidadosamente estructurada para obtener una firmeza en su composición. Dada la naturaleza translúcida de la concha en la etapa larval del loco (Concholepas concholepas), hemos empleado un tejido compuesto por bolsas de plástico recicladas para lograr un aspecto transparente, permitiendo así la visualización del esqueleto de la estructura en su totalidad, como también hemos incorporado los labios característicos de esta etapa del loco, los cuales siguen el mismo lenguaje de círculos junto con un trenzado en plástico que imita el movimiento de los labios.",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-04.jpg?raw=true",
+        "fotos":["portafoliov3-03.jpg", "portafoliov2-04.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+
+    {
+        "nombre": "Tensoestructura",
+        "descripcion": "Diseño pensado en la tensión de tela a partir de una estructura de fierro dulce, el uso de piolas para dar tensión y forma a la estructura. ",
+        "fecha": "2023",
+        "signo": "visual",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-07.jpg?raw=true",
+        "fotos":["portafoliov2-07.jpg", "portafoliov3-02.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Estudio de usabilidad",
+        "descripcion": "Diseño de un soporte corporal para teclado bluetooth para su uso en contextos de programación con RA. ",
+        "fecha": "2022",
+        "signo": "uxui",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-05.jpg?raw=true",
+        "fotos":["portafoliov2-05.jpg", "portafoliov3-10.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Experimentación Textil",
+        "descripcion": "Experimentación enfocada al al trabajo de superficies textiles, en particular a la técnica Devoré y el bordado japonés Sashiko. ",
+        "fecha": "2022",
+        "signo": "textil",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-11.jpg?raw=true",
+        "fotos":["portafoliov3-12.jpg", "portafoliov2-11.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Movimiento",
+        "descripcion": "Proyecto de prendas con movimientos mecanicos a partir de arduino. ",
+        "fecha": "2024",
+        "signo": "textil",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-03.jpg?raw=true",
+        "fotos":["portafoliov2-03.jpg", "portafoliov3-07.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Formas",
+        "descripcion": "Proyecto de prenda experimental, telas y formas. ",
+        "fecha": "2024",
+        "signo": "textil",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-09.jpg?raw=true",
+        "fotos":["portafoliov3-05.jpg", "portafoliov2-09.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Rebeldia",
+        "descripcion": "Proyecto de prenda a partir de una frase, en este caso, una cancion de la lira libertaria. ",
+        "fecha": "2024",
+        "signo": "textil",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-01.jpg?raw=true",
+        "fotos":["portafoliov3-01.jpg", "portafoliov2-01.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Tulio",
+        "descripcion": "Poryecto de fotografía en estudio, trabajo con esquemas de iluminación ",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-02.jpg?raw=true",
+        "fotos":["portafoliov3-09.jpg", "portafoliov2-02.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Aplicación Móvil",
+        "descripcion": "Prototipo de aplicación móvil de visualizacion de datos mineros",
+        "fecha": "2024",
+        "signo": "uxui",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-12.jpg?raw=true",
+        "fotos":["portafoliov3-08.jpg", "portafoliov2-12.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+        {
+        "nombre": "Line Q App - Prototipo Figma",
+        "descripcion": "Propotipo de una aplicación que se basa en el servicio de hacer la fila por otra persona.",
+        "fecha": "2023",
+        "signo": "uxui",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-10.jpg?raw=true",
+        "fotos":["portafoliov2-10.jpg", "portafoliov3-06.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Propuesta diseño web, SOCHERGO",
+        "descripcion": "Rediseño de pagina web.",
+        "fecha": "2023",
+        "signo": "uxui",
+        "foto": "https://github.com/ljubedsacalderon/dno096-09/blob/main/portafoliov2-06.jpg?raw=true",
+        "fotos":["portafoliov2-06.jpg", "portafoliov3-04.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    }
+]
